@@ -53,11 +53,11 @@
 		2DDDF1C7292E5EDF00238279 /* TravelPackage */ = {
 			isa = PBXGroup;
 			children = (
+				2DDDF1D6292E7A1E00238279 /* README.md */,
 				2DDDF1C8292E5EDF00238279 /* TravelPackageApp.swift */,
 				2DDDF1CA292E5EDF00238279 /* ContentView.swift */,
 				2DDDF1CC292E5EE000238279 /* Assets.xcassets */,
 				2DDDF1CE292E5EE000238279 /* Preview Content */,
-				2DDDF1D6292E7A1E00238279 /* README.md */,
 				2DDDF1D7292E7A9E00238279 /* demo.gif */,
 			);
 			path = TravelPackage;
